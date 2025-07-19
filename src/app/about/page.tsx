@@ -27,7 +27,7 @@ export default function About() {
           </h1>
           <div className="w-16 h-px bg-black mx-auto mb-12"></div>
           <p className="text-lg md:text-xl text-gray-600 mb-12 max-w-2xl mx-auto font-light leading-relaxed tracking-wide">
-            เรื่องราวของคนที่อยากแชร์ประสบการณ์การทำบ้าน การจัดบ้าน และเรื่องเล่าต่างๆ ที่เกิดขึ้นในชีวิตประจำวัน
+            สวัสค่ะยินดีต้อนรับเข้าสู่บ้านของบีนะคะ ที่มาขอการสร้างเพจนี้ขึ้นมาคือ
           </p>
         </div>
       </section>
